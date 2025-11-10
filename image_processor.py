@@ -202,7 +202,7 @@ def process_screenshot(image, teacher_mode=False):
     if not question_text:
         return "Could not read the question from the image. Please try again with a clearer image."
     
-    # Display extracted question with type analysis
+    # Display and extracted question with type analysis
     question_type = analyze_question_type(question_text)
     
     if question_type == "MCQ":

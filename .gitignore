@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+env/
+.VENV/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+.DS_Store
+
+# Large files
+checkpoint-250/
+faiss_index/
+
+# Environment variables
+.env
+*.env

@@ -16,3 +16,8 @@ faiss_index/
 # Environment variables
 .env
 *.env
+
+# Large image files
+*.heic
+*.tiff
+*.bmp

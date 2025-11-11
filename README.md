@@ -5,31 +5,31 @@ An AI-powered tutoring chatbot designed specifically for Sri Lankan A/L Chemistr
 ## 🎯 Features
 
 ### 1. AI Chat Assistant
-![Chat Interface](screenshots/chat-interface.png)
+![Chat Interface](C:\GeminiBot\screenshots\chat-interface.png.png)
 - Sinhala and English support
 - Step-by-step chemistry explanations
 - Voice input and output capabilities
 
 ### 2. Molecular Visualizer  
-![Molecule Viewer](screenshots/molecule-viewer.png)
+![Molecule Viewer](C:\GeminiBot\screenshots\molecule-viewer.png.png)
 - Interactive 2D molecular structures
 - SMILES notation support
 - RDKit-powered visualization
 
 ### 3. Virtual Labs
-![Virtual Lab](screenshots/virtual-lab.png)
+![Virtual Lab](C:\GeminiBot\screenshots\virtual-lab.png.png)
 - Integrated PhET simulations
 - ChemCollective practicals
 - Guided lab activities
 
 ### 4. Adaptive Quiz Generator
-![Quiz Interface](screenshots/quiz-interface.png)
+![Quiz Interface](C:\GeminiBot\screenshots\quiz-interface.png.png)
 - AI-generated questions
 - Performance analytics
 - Personalized learning paths
 
 ### 5. Smart Periodic Table
-![Periodic Table](screenshots/periodic-table.png)
+![Periodic Table](C:\GeminiBot\screenshots\periodic-table.png.png)
 - Interactive element explorer
 - Detailed property information
 - Trend visualizations
